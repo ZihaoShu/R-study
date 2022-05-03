@@ -18,8 +18,7 @@ getwd()
 ```
 
 ### 1.2 将Tax4Fun2安装包下载在工作目录下，安装Tax4Fun2
-https://github.com/bwemheu/Tax4Fun2/releases/download/1.1.5/Tax4Fun2_1.1.5.tar.gz
-这个连接已经失效，可以在我的GitHub中[下载](https://github.com/ZihaoShu/Tax4Fun2/raw/main/Tax4Fun2_1.1.5.tar.gz)。
+原下载连接已失效（作者删库跑路？），可以在我的GitHub中[下载](https://github.com/ZihaoShu/Tax4Fun2/raw/main/Tax4Fun2_1.1.5.tar.gz)。
 
 所有的官方参考数据均可在我的GitHub中[下载](https://github.com/ZihaoShu/Tax4Fun2)。
 
