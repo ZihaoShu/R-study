@@ -71,6 +71,6 @@ microeco基于R6开发，提供了封装的面向对象编程范式。为分析�
 
 ---
 # 参考资料
-[microeco: an R package for data mining in microbial community ecology](https://doi.org/10.1093/femsec/fiaa255)
+Liu C, Cui Y, Li X, et al. [microeco: an R package for data mining in microbial community ecology](https://doi.org/10.1093/femsec/fiaa255)[J]. FEMS microbiology ecology, 2021, 97(2): fiaa255.
 
 [Tutorial for R microeco package](https://chiliubio.github.io/microeco_tutorial/)
